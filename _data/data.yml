@@ -7,16 +7,16 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
+  name: Cristopher Jovanni Macías Hernández # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: crprmahdz@yahoo.com
+  phone: 5618126362
   website: # No agregar http://
   linkedin: brightcoders
-  github: brightcoders
+  github: https://github.com/CrMa1
   gitlab:
   bitbucket:
   twitter: '@BrightCoders'
@@ -31,9 +31,6 @@ sidebar:
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -50,16 +47,11 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
-
+    I have had the opportunity to work creating systems that provide internet service at home and on phones. That included managing and supporting internet service plans, contracts, payments, offers, customers, and and direct treatment solving problems to customers in a potential way.  I have also programmed vehicle tracking and real-time monitoring systems. Some e-comerce that helped potentially increase the sales of those companies. Including management systems for customers, orders, products, accounts and more. Landings and electoral election systems.
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
-    details: |
 
-  - degree: PhD in Computer vision and Machine learning
+- degree: PhD in Computer vision and Machine learning
     university: Heidelberg University
     time: 2015 - 2020
     details: |
@@ -70,7 +62,7 @@ educationcomplete:
         - Automatic Behavior Analysis
 
   - degree: Internship (Master Thesis)
-    university: Tobii
+  
     time: 2014 - 2015
     details: |
       Master thesis topic Hand gesture classification by Deep learning using infrared camera 
@@ -86,32 +78,12 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: FullStack Developer
+    time: 2019 - Present
+    company: Modular y Escalable
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-
+      Lead web application projects. Teamwork to carry out different projects.
+      
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
@@ -122,23 +94,11 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
+    - name: PHP
+      level: 90%
 
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
-      level: 80%
-
-    - name: Matlab
-      level: 100%
-
-    - name: C/C++
-      level: 40%
+    - name: JavaScript
+      level: 70%
 
 # NO MODIFICAR
 footer: >
