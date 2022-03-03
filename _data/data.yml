@@ -42,6 +42,12 @@ sidebar:
 
     - item: Time Management
       link: # dejar en blanco
+    
+    - item: Troubleshooting
+      link: # dejar en blanco
+    
+    - item: Adaptability
+      link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
@@ -51,30 +57,10 @@ career-profile:
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
 
-- degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+- degree: Systems Engineer
+    university: UCI
+    time: 2016 - 2019
     details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-  
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
@@ -98,6 +84,15 @@ skills:
       level: 90%
 
     - name: JavaScript
+      level: 70%
+      
+   - name: Git
+      level: 70%
+      
+   - name: HTML
+      level: 80%
+      
+   - name: CSS
       level: 70%
 
 # NO MODIFICAR
